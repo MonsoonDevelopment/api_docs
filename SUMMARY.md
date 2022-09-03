@@ -2,6 +2,7 @@
 
 * [Monsoon Scripting API](README.md)
 * [Getting Started](getting-started.md)
+* [Module Settings](module-settings.md)
 * [Module Events](module-events.md)
 * [Inbuilt Utils](inbuilt-utils.md)
 * [Manager Util](manager-util.md)
