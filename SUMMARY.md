@@ -4,3 +4,6 @@
 * [Getting Started](getting-started.md)
 * [Module Events](module-events.md)
 * [Inbuilt Utils](inbuilt-utils.md)
+* [Manager Util](manager-util.md)
+* [Module Util](module-util.md)
+* [Player Util](player-util.md)
