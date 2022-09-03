@@ -9,3 +9,4 @@
 * [Player Util](player-util.md)
 * [World Util](world-util.md)
 * [Draw Util](draw-util.md)
+* [Color Util](color-util.md)
