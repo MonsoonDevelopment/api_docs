@@ -1,7 +1,3 @@
----
-description: How to create a base module, and get it showing up in Monsoon!
----
-
 # Getting Started
 
 Navigate to your `/.minecraft/` directory. In there, assuming you have run Monsoon already (which you should have), you will see a directory named 'monsoon'. Navigate into here, and you should see a 'scripts' directory. Navigate once more into this 'scripts' folder, and make a new file.
